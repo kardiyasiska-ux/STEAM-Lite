@@ -1,4 +1,4 @@
-# Welcome to my Axios App 👋
+# Welcome to STEAM Lite👋
 
 AxiosApp adalah aplikasi website/mobile berbasis **Expo Router** dan **React Native Web** untuk layanan **Pojok Malam Catering**. Aplikasi ini menyediakan halaman publik untuk melihat informasi catering, menu, paket, galeri, testimoni, kontak, serta dashboard untuk pengelolaan data oleh admin/customer yang sudah login.
 
